@@ -23,7 +23,7 @@ Curiosidade que amo:
 ## Contatos:
 
 <div>
-  <a href="https://instagram.com/euadrielecastro?igshid=YmMTA2M2Y=" target="_blank"><img src"insta.jpeg">
-  <a href="https://youtube.com/channel/UCo2aaK69t74TiLLEz3S5bog" target="_blank"><img src"">
+  <a href="https://instagram.com/euadrielecastro?igshid=YmMTA2M2Y=" target="_blank"><img src"Instagram.jpeg">
+  <a href="https://youtube.com/channel/UCo2aaK69t74TiLLEz3S5bog" target="_blank"><img src"Youtube.jpeg">
   <a href="" target="_blank"><img src"">
   <a href="" target="_blank"><img src"">
