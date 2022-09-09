@@ -3,6 +3,7 @@
 <div>
 Curiosidade que amo:
 -músicas 🎶. 
+  
 -Tocar Instrumentos 🎸.
 -Ler livros.
 </div>
